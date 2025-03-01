@@ -16,6 +16,7 @@ header {
 nav ul {
     list-style: none;
     padding: 0;
+    text-align: center;
 }
 
 nav ul li {
@@ -26,6 +27,7 @@ nav ul li {
 nav ul li a {
     color: white;
     text-decoration: none;
+    font-weight: bold;
 }
 
 section {
@@ -43,6 +45,5 @@ footer {
     padding: 10px;
     background: #333;
     color: white;
-    position: relative;
     margin-top: 20px;
 }
